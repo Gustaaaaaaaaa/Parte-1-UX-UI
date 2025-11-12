@@ -16,6 +16,15 @@ Disponível na planilha abaixo
 [`docs/planilha-analise-estatica.xlsx`](docs/planilha-analise-estatica.xlsx)
 
 O grafo abaixo representa o fluxo lógico do método `verificarUsuario()`:
+
+
+
+
+
+
+
+
+
 ![Grafo de Fluxo](docs/Grafo_Fluxo.png)
 
 Este grafo foi usado como base para calcular a complexidade ciclomática e mapear os caminhos básicos.
